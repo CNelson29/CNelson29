@@ -1,9 +1,10 @@
 <h1 align="center"><b>Hi , I'm Carlos Tiburcio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Tecnologo+Y+Entuciasta+tech..&hearts;++;Me-Enfocoen+Back-End+PythonDeveloper,;Ingeniero+en software+estudiante,;PY+TECH,;Active+Learner/Researcher,;Love+to+learn+news+tecnologys..<3"></a>
-</p>
+<p align="center" ><img 
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+
+
+<p align="center">I'm a student developer.<br/>I specialize in Web System-Development.<br> I also python and its possibilities , WORLD TECH...<3 etc.<br></p><br/>
 
 
 <br>
@@ -17,10 +18,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end and Back-end developer
-- i'm oaciner for technology and science
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity.
+- A passionate Self-taught Front-end and Back-end Developer
+- I am passionate about technology and science
+- Currently learning Web Development on my own and studying software engineering.
+- I am currently open for an internship or a new job opportunity.
+- Aspiring software engineer
+-Python Developer 
 
 <br><br>
 
@@ -107,26 +110,12 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/carlos-nelson-tiburcio-molano-00221822a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
 	
 </ul>
 </div>
@@ -139,7 +128,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Un gusto saludarles, graciasss...✨</b>
 
 </div>
 <br>
